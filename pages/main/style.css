@@ -1,0 +1,206 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.text{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 48px;
+  line-height: 120%;
+  margin: 0;
+}
+
+.p__backstage {
+  font-size: 16px;
+  line-height: 130%;
+  margin-top: 20px;
+  margin-bottom: 57px;
+}
+
+.subtitle {
+  font-size: 16px;
+  font-size: 24px;
+  line-height: 120%;
+  margin-bottom: 33px;
+}
+
+.backstage__subtitle--text{
+  font-size: 16px;
+  line-height: 135%;
+}
+
+header {
+  background-color: black;
+  min-width: 1160px;
+  height: 80px;
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+.bordered {
+  width: 1160px;
+  height: 100%;
+  position: relative;
+  display: flex;
+}
+
+.header--normal {
+  flex-direction: row;
+}
+
+.header__logo {
+  width: 145px;
+  height: 100%;
+}
+
+.header__navigation {
+  height: 100%;
+  width: 472px;
+}
+
+.header__navigation a {
+  position: relative;
+  display: inline-block;
+  transition: color 0.2s;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 16px;
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.header__navigation a:hover {
+  color: #f9804b;
+  transition: all 0.7s ease;
+}
+
+.header__navigation ul {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.desingnet-by {
+  color: #ffffff;
+  display: flex;
+  position: relative;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  margin: 0 0 0 auto;
+  height: 100%;
+  width: 105px;
+}
+
+.watch_animal {
+  width: 100%;
+  min-height: 700px;
+  background-image: url("../../assets/images/Giant_Panda.png");
+  margin-top: -80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.cyrcle--orange {
+  position: relative;
+  display: flex;
+  margin: 12px -395px auto auto;
+  width: 465px;
+  height: 465px;
+  border-radius: 50%;
+  background: #F9804B;
+}
+
+.watch-animal--normal {
+  flex-direction: column;
+}
+
+.text_watch-animal {
+  box-sizing: border-box;
+  z-index: 1;
+  color: white;
+  font-size: 102px;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-weight: 900;
+  width: 500px;
+  height: 400px;
+  line-height: 80px;
+  text-align: center;
+  word-break: normal;
+  margin: 84px 0px 0 0;
+  letter-spacing: 3.4px;
+}
+
+.colored__yellow {
+  line-height: 82px;
+  color: yellow;
+}
+
+.tagline {
+  display: flex;
+  height: 500px;
+  width: 1160px;
+}
+
+
+.button__watch {
+  align-self: flex-end;
+  margin: 45px 100px auto auto;
+}
+
+.button {
+  background: linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
+  border-radius: 25px;
+  width: 298px;
+  height: 54px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  border: none;
+}
+
+.backstage {
+  width: 100%;
+  min-height: 640px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.backstage--normal {
+  display: flex;
+  box-sizing: border-box;
+  margin-top: 140px;
+}
+
+.backstage__img--flower {
+  display: flex;
+  position: absolute;
+  right: 0;
+}
+
+.backstage__container {
+  display: flex;
+  flex-direction: row;
+}
+
+.backstage__container--text {
+  padding-left: 85px;
+}
