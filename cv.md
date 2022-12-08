@@ -37,3 +37,11 @@ _Software Engineer | September 2018 - February 2022_
 
 - Diploma project in the field of forming product labels for
 printing on industrial thermal printers.
+
+### Languages
+
+Belarusian _В1 (Intermediate)_
+
+Russian _С2 (Proficiency)_
+
+English _A2 (Elementary)_
