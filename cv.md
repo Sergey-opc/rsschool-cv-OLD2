@@ -7,6 +7,7 @@
 * Discord - Sergey (@sergey-opc)   
 * VK - volodkevichs
 * Gmail - volodkevich777gmail.com
+
 ### Abbout Me
 
 I'm truing to becoom a programmer, because from an early age I considered it a cool profession, and it so happened that I still think so.
@@ -39,6 +40,7 @@ _Software Engineer | September 2018 - February 2022_
 printing on industrial thermal printers.
 
 ### Languages
+
 Belarusian _В1 (Intermediate)_
 
 Russian _С2 (Proficiency)_
